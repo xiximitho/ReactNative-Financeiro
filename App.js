@@ -13,7 +13,7 @@ function App() {
     <SafeAreaView>
       <ScrollView>
         <View>
-          <Text> Teste {4 + ((4 * 96) / 2) * 3}</Text>
+          <Text> TTT {4 + ((4 * 96) / 2) * 3}</Text>
         </View>
       </ScrollView>
     </SafeAreaView>
